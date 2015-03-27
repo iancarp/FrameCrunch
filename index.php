@@ -7,7 +7,7 @@
  */
 
 
-echo "FrameCrunch v1.03";
+echo "FrameCrunch v1.04";
 
 ?>
 
