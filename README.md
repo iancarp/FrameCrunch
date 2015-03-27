@@ -1,2 +1,3 @@
 # FrameCrunch
-Video Conversion Tool
+Video Conversion Tool v1.00
+
